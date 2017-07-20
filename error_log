@@ -1,0 +1,13 @@
+[08-Mar-2016 16:56:00 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/models/LoginModel.php on line 14
+[08-Mar-2016 17:47:59 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/models/UserModel.php on line 24
+[08-Mar-2016 17:48:03 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/models/UserModel.php on line 24
+[08-Mar-2016 17:48:49 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/models/UserModel.php on line 24
+[08-Mar-2016 17:50:20 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/models/UserModel.php on line 24
+[08-Mar-2016 18:02:57 UTC] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
+[08-Mar-2016 18:07:09 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
+[08-Mar-2016 18:07:32 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
+[08-Mar-2016 18:07:33 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
+[08-Mar-2016 18:07:34 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
+[08-Mar-2016 18:07:34 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
+[08-Mar-2016 18:07:46 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
+[08-Mar-2016 18:08:14 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/joiniz/public_html/jobslogon.com/application/views/user/facebookLike.php on line 19
