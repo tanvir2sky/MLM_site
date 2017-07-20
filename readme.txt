@@ -2,4 +2,4 @@ It is a MLM site where user can register and do different available task, such a
 Payment integrated (paypal)	
 database => db_mlm
 
-site link: www.jobslogon.com
+site link: www.jobslogon.com ( done in 2015)
